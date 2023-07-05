@@ -1,3 +1,5 @@
+KPMG Data Analytics Task - Analysze large customer and transcation dataset for Sprocket Central Pty Ltd to help optimise their marketing strategy. 
+
 Task 1 : Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
 
